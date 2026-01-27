@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Env
+.env
+
+# App data (don’t commit user docs or vector db)
+data/uploads/
+data/chroma/
+
+# OS
+.DS_Store
+Thumbs.db
