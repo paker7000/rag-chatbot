@@ -1,10 +1,19 @@
+# UI
 streamlit
+
+# Environment variables
 python-dotenv
+
+# PDF parsing
 pypdf
 
+# LlamaIndex core
 llama-index
+
+# LlamaIndex integrations
 llama-index-vector-stores-chroma
 llama-index-embeddings-openai
 llama-index-llms-openai
 
+# Vector database
 chromadb
